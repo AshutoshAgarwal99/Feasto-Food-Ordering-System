@@ -1,6 +1,11 @@
 # Feasto
 Feasto is a food ordering system template that utilizes Swiggy's data to render food items, demonstrating the application of Industrial Design principles. The primary purpose of creating this application is to showcase how to build industrial-grade applications using built-in React features and frequently used core libraries.
 
+Tech Stack used in this application are:
+1. React
+2. JavaScript
+3. Tailwind CSS
+
 The application incorporates several fundamental concepts and features, including:
 1. **Functional Components:** Utilizing React's functional programming approach for creating components.
 2. **Fetch API:** For fetching data from external sources.
